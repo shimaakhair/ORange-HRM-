@@ -1,0 +1,1 @@
+{"uuid":"5c81ccf3-f5d1-45d1-a634-4cb79a462844","name":"TestCases.AddNewUserTest","children":["01557eaf-8c22-47be-ac34-92bb4bda6bb1"],"befores":[{"name":"startDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1636624299782,"stop":1636624304453}],"afters":[],"links":[],"start":1636624299749,"stop":1636624309888}
